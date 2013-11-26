@@ -22,5 +22,5 @@ This will create keyboard interactivity. The following example will associate t 
 ##menu
 ###description
 This will enable a menu that displays keyboard commands when pressing a hotkey. When the menu is active it will be given the CSS class active.
-##example
+###example
     utils.enableMenu(document.getElementById('utils-menu'), 1);
