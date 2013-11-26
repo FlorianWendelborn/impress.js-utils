@@ -3,7 +3,7 @@ impress.js-utils
 
 Some enhancements for impress.js.
 
-=initialize impress.js-utils
+#=initialize impress.js-utils
 put utils.js in your presentation folder and append this to your HTML:
 
     <script src="./utils.js" type="text/javascript"></script>
